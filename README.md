@@ -1,11 +1,17 @@
 
-## Weather API
-***
+## Simply Weather API
+
 ### Stack used:
 
 ***- Javascript***
 
+***- React.js***
+
 ***- Jest (work in progress)***
+
+***
+
+***API: www.weatherapi.com***
 
 ***
 
