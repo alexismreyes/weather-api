@@ -1,0 +1,32 @@
+.container{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Horizontally centers the div */
+    align-items: center;    /* Vertically centers the div */        
+    height: 100vh; /* Full viewport height */
+}
+
+.weather-container{  
+    text-align: center;
+    border: solid 1px;   
+    border-color: rgb(143, 138, 138); 
+    border-radius: 10px; 
+    padding: 3rem 6rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); /* Adds a shadow border */   
+}
+
+.input-search{
+    margin-top: 1rem;
+    font-size: x-large;
+    border-radius: 5px;
+}
+
+.title-weather{
+    color: #365A7A;
+    font-size:xxx-large;
+}
+
+.text-weather{    
+    font-size:x-large;
+}
+

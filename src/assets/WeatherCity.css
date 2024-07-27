@@ -1,0 +1,11 @@
+
+.forecast-weather {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+    gap: 20px;
+    margin: 5px; /* Space between items */
+    padding: 10px; /* Padding inside each item */
+    /*flex: 1; /* Allow items to grow and shrink */
+    /*min-width: 120px; /* Minimum width for each item */
+}
